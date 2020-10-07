@@ -1,0 +1,11 @@
+.card-columns {
+    column-count: 4;
+}
+
+.cut-text{
+    overflow: hidden;
+    width:100%;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
